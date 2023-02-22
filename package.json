@@ -1,0 +1,34 @@
+{
+  "name": "knowledge-base-with-gatsby",
+  "version": "1.0.0",
+  "private": true,
+  "description": "knowledge-base-with-gatsby",
+  "author": "IsaacThaJunior",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.14.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "gatsby-plugin-postcss": "^6.2.0",
+    "postcss": "^8.4.20",
+    "gatsby-plugin-image": "^2.15.1",
+    "gatsby-plugin-sharp": "^4.15.1",
+    "gatsby-source-filesystem": "^4.15.0",
+    "gatsby-transformer-remark": "^5.15.1",
+    "gatsby-transformer-sharp": "^4.15.1",
+    "gatsby-source-buttercms": "^2.2.6",
+    "tailwindcss": "^3.2.4"
+  }
+}
